@@ -14,7 +14,7 @@ A simple donation application that lets user donate to donees using QR Code. A u
 ### Clone the repository
 
 ```shell
-git clone git@github.com:juliendargelos/project.git
+git clone git@github.com:smaglobal/Friendy.git
 cd project
 ```
 
